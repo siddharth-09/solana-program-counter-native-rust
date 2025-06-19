@@ -165,20 +165,11 @@ mod tests {
 4. Add tests for new functionality
 5. Submit a pull request
 
-## License
-
-[Add your license information here]
-
 ## Resources
 
 - [Solana Documentation](https://docs.solana.com/)
 - [Borsh Specification](https://borsh.io/)
 - [Solana Program Library](https://github.com/solana-labs/solana-program-library)
-
-## Contact
-
-[Add your contact information or links to social profiles]
-
 ---
 
 **Note**: This is a basic example program intended for educational purposes. For production use, consider additional security measures, error handling, and access controls.
