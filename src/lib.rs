@@ -16,8 +16,8 @@ struct Counter{
 entrypoint!(counter_contract);
 
 pub fn counter_contract(
-    program_id:&Pubkey,
-    accounts:&[AccountInfo],//Adress of array 
+    _program_id:&Pubkey,
+    accounts:&[AccountInfo],//Adress of array Data account
     instruction_data : &[u8] // bytes of data can come from user represent the request they want to do
 )->ProgramResult{
     
